@@ -5,3 +5,5 @@ Hi
 My name is Kai
 
 And I'm about to get more to this experience with GitHub
+
+I'm doing the best as I can to master the skills of programming
